@@ -2,7 +2,7 @@
 This is a game simulating strawberry harvesting. 
 
 ## 1. How to download the game?
-There is no need to install anything extra, just simply download, duoble click and enjoy the game!
+There is no need to install anything extra, just simply download, duoble click and enjoy the game directly!
 
    ### Windows: 32-bit/64-bit
    Please download everything in folder **Windows_v2_1**;
