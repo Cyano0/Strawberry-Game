@@ -32,12 +32,14 @@ All data collected:
 ## 3. What is the game like?
 Basically, the game has two different mode.Easy Mode and Hard Mode.
 ### Easy Mode
-Easy mode simulats harvesting strawberries with hand. As shown in picture below,
+Easy mode simulates harvesting strawberries with hand. As shown in picture below,
 
-Strawberry-Game/EasyMode.jpg?raw=true)
 ![Optional Text](https://github.com/HypoXanthine/Strawberry-Game/EasyMode.jpg)
 
+### Hard Mode
+Hard mode simulates harvesting strawberries with hand. As shown in picture below,
 
+![Optional Text](https://github.com/HypoXanthine/master/Strawberry-Game/HardMode.jpg)
 
 
 
