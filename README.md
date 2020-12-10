@@ -34,12 +34,12 @@ Basically, the game has two different mode.Easy Mode and Hard Mode.
 ### Easy Mode
 Easy mode simulates harvesting strawberries with hand. As shown in picture below,
 
-![Optional Text](https://github.com/HypoXanthine/Strawberry-Game/EasyMode.jpg)
+![Optional Text](https://github.com/HypoXanthine/Strawberry-Game/blob/master/EasyMode.jpg)
 
 ### Hard Mode
 Hard mode simulates harvesting strawberries with hand. As shown in picture below,
 
-![Optional Text](https://github.com/HypoXanthine/master/Strawberry-Game/HardMode.jpg)
+![Optional Text](https://github.com/HypoXanthine/Strawberry-Game/blob/master/HardMode.jpg)
 
 
 
