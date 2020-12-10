@@ -17,4 +17,4 @@ There is no need to install anything extra, just simply download, duoble click a
    ### Mac OS X: 
    Please download everything in folder **MacOSX_v2_1**,
    
-   And use mouse to double click on file **Strawberry Hunter.app** to start the game. (Or use the commandline if you like.)
+   And use mouse to double click on file **Strawberry Hunter.app** to start the game. (I don't have Mac OS operation system, so this one is not tested yet. If you find it working, I'll be happy to know.)
