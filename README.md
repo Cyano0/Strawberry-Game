@@ -35,6 +35,7 @@ Basically, the game has two different mode.Easy Mode and Hard Mode.
 Easy mode simulats harvesting strawberries with hand. As shown in picture below,
 
 Strawberry-Game/EasyMode.jpg?raw=true)
+![Optional Text](../Strawberry-Game/EasyMode.jpg)
 
 
 
