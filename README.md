@@ -19,7 +19,7 @@ There is no need to install anything extra, just simply download, duoble click a
    
    Once downloaded, use mouse to double click on file **Strawberry Hunter.app** to start the game. (I don't have Mac OS operation system, so this one is not tested yet. If you find it working, I'll be happy to know.)
    
-## What is this game for?
+## 2. What is this game for?
 This game is made to collect data about human decision when harvesting strawberries. But only game operation data will be collected anonymously, no personally identifiable information will be collected or used. It will be made clear that due the data being submitted anonymously, withdrawal from the study will not be possible past the point of submission. After each round, data will be upload to the online database, thus the completing of each round implies consent to the decription.
 
 All data collected: 
@@ -29,10 +29,11 @@ All data collected:
 - Character(or object controlled byuser) moving trajectories
 
 
-## What is the game like?
+## 3. What is the game like?
 Basically, the game has two different mode.Easy Mode and Hard Mode.
 ### Easy Mode
-Simulating harvesting strawberries with hand. 
+Easy mode simulats harvesting strawberries with hand. As shown in picture below,
+![alt text](https://github.com/HypoXanthine/Strawberry-Game/blob/Easy mode.jpg?raw=true)
 
 
 
