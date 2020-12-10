@@ -26,7 +26,15 @@ All data collected:
 - Time used
 - Randomly generated strawberries positions (map of strawberries)
 - Strawberry collected order
-- Character(or object controlled byuser) moving trajectory
+- Character(or object controlled byuser) moving trajectories
+
+
+## What is the game like?
+Basically, the game has two different mode.Easy Mode and Hard Mode.
+### Easy Mode
+Simulating harvesting strawberries with hand. 
+
+
 
 
 
