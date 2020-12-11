@@ -28,7 +28,7 @@ All data collected:
 - Strawberry collected order
 - Character(or object controlled byuser) moving trajectories
 
-Please don't be worry about safety of the data, it will be removed from the online dataset and moved to local storage space within one week.
+Please don't worry about safety of the data, it will be removed from the online dataset and will be moved to safe local storage space within one week after uploaded to the database.
 
 
 ## 3. What is the game like?
