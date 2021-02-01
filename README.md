@@ -1,5 +1,5 @@
 # Strawberry-Game
-This is a game simulating strawberry harvesting. 
+This is a game simulating strawberry harvesting. Try the online version [here.](https://hypoxanthineplus.itch.io/strawberry-hunter-demo-v3) 
 
 ## 1. How to download the game?
 There is no need to install anything extra, just simply download, duoble click and enjoy the game directly!
@@ -20,13 +20,13 @@ There is no need to install anything extra, just simply download, duoble click a
    Once downloaded, use mouse to double click on file **Strawberry Hunter.app** to start the game. (I don't have Mac operation system, so this one is not tested yet. If you find it working, I'll be super happy to know.)
    
 ## 2. What is this game made for?
-This game is made to collect data about human decision when harvesting strawberries. But only game operation data will be collected anonymously, no personally identifiable information will be collected or used.  After each round, data will be upload to the online database, thus the completing of each round implies consent to the decription. It should be made clear that due the data being submitted anonymously, withdrawal from the study will not be possible past the point of submission to the online database.
+This game is made to collect data about human decision when harvesting strawberries. But only game operation data will be collected anonymously, no personally identifiable information will be collected or used.  After each round, data will be upload to the online database, thus the completing of each round implies consent to the description. It should be made clear that due the data being submitted anonymously, withdrawal from the study will not be possible past the point of submission to the online database.
 
 All data collected: 
 - Time used
 - Randomly generated strawberries positions (map of strawberries)
 - Strawberry collected order
-- Character(or object controlled byuser) moving trajectories
+- Character(or object controlled by user) moving trajectories
 
 Please don't worry about safety of the data, it will be removed from the online dataset and will be moved to safe local storage space within one week after uploaded to the database.
 
